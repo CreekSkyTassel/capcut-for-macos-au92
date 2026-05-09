@@ -1,4 +1,4 @@
-
+Enhance CapCut for macOS with new CapCut for macOS Workflow | raw-file-support + collaboration-tools, the #1 workflow. Includes raw-file-support and collaboration-tools for a
 
 
 
